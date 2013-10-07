@@ -4,7 +4,7 @@ class Libmagic < Formula
   homepage 'http://www.darwinsys.com/file/'
   url 'ftp://ftp.astron.com/pub/file/file-5.15.tar.gz'
   mirror 'http://fossies.org/unix/misc/file-5.15.tar.gz'
-  sha1 '064c8f17a5f7ae1e336a9285131e046d3b2d04d7'
+  sha1 'de1a060aa5fe61c1a6f0359fb526e824b4244323'
 
   option :universal
 
